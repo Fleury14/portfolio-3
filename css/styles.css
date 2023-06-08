@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@700&family=Raleway&display=swap');
+
+.title-name {
+    background-color: #65d1ff7f;
+    color: #fff;
+}
+
+nav.navbar {
+    background-color: #65d1ff7f !important;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
