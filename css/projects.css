@@ -14,3 +14,7 @@
     height: auto;
     z-index: -1;
 }
+
+.card-container img {
+    padding: 10px;
+}
