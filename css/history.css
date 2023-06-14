@@ -1,0 +1,23 @@
+.projects-background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0.79;
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
+
+.history-tab-ul {
+    background-color: #ffffffdf;
+    margin: 0 auto;
+    margin-top: 150px;
+    width: 75%;
+}
+
+.tab-pane {
+    background-color: #ffffffdf;
+    padding: 50px;
+    width: 75%;
+    margin: 0 auto;
+}
