@@ -6,7 +6,8 @@
 }
 
 nav.navbar {
-    background-color: #65d1ffbf !important;
+    background-color: transparent !important;
+    font-weight: 900;
 }
 
 body {

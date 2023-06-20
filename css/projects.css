@@ -5,11 +5,16 @@
     margin-top: 100px;
 }
 
+nav.navbar {
+    background-color: #ffffffdf !important;
+    font-weight: 900;
+}
+
 .projects-background {
     position: absolute;
     left: 0;
     top: 0;
-    opacity: 0.79;
+    /* opacity: 0.79; */
     width: 100%;
     height: auto;
     z-index: -1;

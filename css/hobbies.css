@@ -1,0 +1,19 @@
+.hobbies-background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    /* opacity: 0.79; */
+    width: 100%;
+    height: auto;
+    z-index: -1;
+}
+
+.hobby-card {
+    margin: 50px auto;
+    width: 40%;
+}
+
+.card-row {
+    display: flex;
+    justify-content: space-between;
+}
