@@ -1,3 +1,8 @@
+body {
+    background: url("/images/rcside.jpg");
+    background-size: cover;
+}
+
 .projects-background {
     position: absolute;
     left: 0;
