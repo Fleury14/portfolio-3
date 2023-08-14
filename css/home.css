@@ -70,7 +70,7 @@ h1 {
 }
 
 body {
-    background: url("/images/luckysunset.jpg");
+    background: url("../images/luckysunset.jpg");
     background-size: cover;
 }
 
