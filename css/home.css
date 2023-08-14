@@ -69,3 +69,35 @@ h1 {
     font-size: 24px;
 }
 
+body {
+    background: url("/images/luckysunset.jpg");
+    background-size: cover;
+}
+
+@media screen and (max-width: 800px) {
+    .title-button-row {
+        width: 100%;
+        padding: 5%;
+    }
+
+    .title-button-blue, .title-button-white {
+        height: 80px;
+        width: 80px;
+        font-size: 12px;
+    }
+
+    .title-name {
+        width: 100%;
+        height: auto;
+        padding: 5%;
+    }
+
+    .title-name h1 {
+        font-size: 30px;
+    }
+
+    .title-photo {
+        height: 50px;
+        width: 50px;
+    }
+}
