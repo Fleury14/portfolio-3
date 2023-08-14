@@ -1,3 +1,8 @@
+body {
+    background: url("/images/bagcreek.jpg");
+    background-size: cover;
+}
+
 .card-container {
     display: flex;
     flex-direction: column;
